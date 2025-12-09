@@ -1,0 +1,21 @@
+.header {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  nav {
+    display: flex;
+    gap: 15px;
+    a {
+      padding: 5px;
+      width: 80px;
+      border: 2px solid #fff;
+      text-align: center;
+      text-decoration: none;
+      color: #fff;
+      &:hover {
+        background: #fff;
+        color: #000;
+      }
+    }
+  }
+}

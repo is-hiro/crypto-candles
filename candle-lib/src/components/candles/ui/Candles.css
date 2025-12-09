@@ -1,0 +1,11 @@
+.candles {
+  display: flex;
+
+  .candle {
+    color: red;
+  }
+}
+
+canvas {
+  touch-action: none;
+}
