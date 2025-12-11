@@ -71,7 +71,7 @@ export function App() {
 
 ### Props
 
-| Prop      | Type            | Required | Описание                                                                                            |
+| Prop      | Type            | Required | Description                                                                                            |
 | --------- | --------------- | -------- | --------------------------------------------------------------------------------------------------- |
 | `candles` | `Candle[]`      | ✅       | An array of candles from which the chart is constructed                                             |
 | `width`   | `number`        | ❌       | Canvas width in pixels                                                                              |
